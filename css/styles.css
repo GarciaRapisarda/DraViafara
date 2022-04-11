@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logoHead {
+    text-align: left;
+    background: linear-gradient(-90deg, black,#656869);
+    background-color:wheat;
+}
+
+header h2 {
+    margin: 0;
+    background-color: #a52a2a;
+    height: 100%;
+}
+header h4 {
+    margin: 0;
+    background-color: #be4848;
+}
+header h5 {
+    margin: 0;
+    background-color: #c27575;
+}
+.fondo {
+    background-color:#8C775D ;
+}
+.card {
+    background-color: #F2F2F2;
+}
+.footer {
+    background-color: black;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.footer h6 {
+    margin: 0;
+    color: #F2F2F2;
+    text-align: right;
+    padding-right: 10px;
+}
+.card-title {
+    color: #656869;
+}
+.card-text {
+    color: #8C775D;
+}
